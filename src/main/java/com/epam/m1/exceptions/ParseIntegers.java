@@ -8,6 +8,7 @@ import java.util.List;
  * Complete the code, parse integers, calculate the sum of numbers in the WORDS, join strings with
  * space delimiter
  */
+
 public class ParseIntegers {
 
     private static final List<String> WORDS =
